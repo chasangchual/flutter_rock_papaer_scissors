@@ -44,10 +44,10 @@ flutter run
 ## How It Works
 
 This game was built with simplicity and structure in mind. Below are the key components:
-• **Custom Widgets**: The game UI is built using Flutter’s widget system with customized widgets for displaying game elements (Rock, Paper, Scissors options, etc.).
-• **GetX State Management**:
-    • Manages the game state efficiently using GetX.
-    • Handles user input to determine the player’s choice (Rock, Paper, or Scissors).
-    • Updates and displays the game result based on user and computer choices.
+- **Custom Widgets**: The game UI is built using Flutter’s widget system with customized widgets for displaying game elements (Rock, Paper, Scissors options, etc.).
+- **GetX State Management**:
+  - Manages the game state efficiently using GetX.
+  - Handles user input to determine the player’s choice (Rock, Paper, or Scissors).
+  - Updates and displays the game result based on user and computer choices.
 
 ![Rock Paper Scissor](docs/play-screen-capture.png)
