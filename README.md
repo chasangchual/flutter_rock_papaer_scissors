@@ -1,6 +1,13 @@
-# rock_paper_scissors
+# Rock Paper Scissors Game - Flutter & GetX
 
-Rock Paper Scissors Game
+Welcome to the Rock Paper Scissors Game built with Flutter! This repository showcases a simple game where users can play Rock, Paper, Scissors. 
+The game demonstrates how to write custom Flutter widgets and utilize GetX for managing the game state, user input, and displaying results.
+
+
+## Features
+- A fun and interactive Rock, Paper, Scissors game!
+- Custom-built UI using your own Flutter widgets.
+- State management, user input handling, and game result calculation using **GetX**.
 
 ## Getting Started
 
@@ -14,3 +21,33 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Installation
+1. Clone this repository:
+```bash
+git clone  https://github.com/chasangchual/flutter_rock_papaer_scissors.git
+```
+2. Navigate to the project directory::
+```bash
+cd flutter_rock_papaer_scissors
+```
+3. Install the required dependencies:
+```bash
+flutter pub get
+```
+## Running the app 
+To run the game on a connected device or emulator, use:
+```bash
+flutter run
+```
+
+## How It Works
+
+This game was built with simplicity and structure in mind. Below are the key components:
+• **Custom Widgets**: The game UI is built using Flutter’s widget system with customized widgets for displaying game elements (Rock, Paper, Scissors options, etc.).
+• **GetX State Management**:
+    • Manages the game state efficiently using GetX.
+    • Handles user input to determine the player’s choice (Rock, Paper, or Scissors).
+    • Updates and displays the game result based on user and computer choices.
+
+![Rock Paper Scissor](docs/play-screen-capture.png)
