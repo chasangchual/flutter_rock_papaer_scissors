@@ -50,4 +50,5 @@ This game was built with simplicity and structure in mind. Below are the key com
   - Handles user input to determine the player’s choice (Rock, Paper, or Scissors).
   - Updates and displays the game result based on user and computer choices.
 
-![Rock Paper Scissor](docs/play-screen-capture.png)
+<img src="https://github.com/chasangchual/flutter_rock_papaer_scissors/blob/main/docs/ready-screen-capture.png" alt="Home View" width="500" />
+<img src="https://github.com/chasangchual/flutter_rock_papaer_scissors/blob/main/docs/play-screen-capture.png" alt="Home View" width="500" />
